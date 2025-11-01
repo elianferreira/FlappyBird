@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class Score : MonoBehaviour
+public class Score_Professo : MonoBehaviour
 {
     int pontos = 0;
     [SerializeField] List<int> scores = new List<int>();
